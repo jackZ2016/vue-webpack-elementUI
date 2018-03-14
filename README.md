@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # back-stage-management
 
 > A Vue.js project
@@ -28,3 +29,7 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# vue-webpack-elementUI
+a back-state management
+>>>>>>> 44c1492371f22302eef221550701ce7d224b6143
